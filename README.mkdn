@@ -11,7 +11,7 @@ Aqui estão os logotipos das comunidades que com pequenos atos fazem grandes rev
 
 2. Baixe o seu _fork_ para o diretório recém criado:
 
-		git clone git@github.com:[SEU_USUÁRIO]/community-stuff.git
+		git clone git@github.com:[SEU_USUÁRIO]/community-stuff.git .
 
 3. Mude o que você desejar!
 
