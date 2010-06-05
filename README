@@ -1,0 +1,27 @@
+# Community Stuff
+
+Aqui estão os logotipos das comunidades que com pequenos atos fazem grandes revoluções.
+
+## Como contribuir?
+
+1. Crie um diretório para o seu projeto:
+
+		mkdir -p ~/community-stuff
+		cd ~/community-stuff
+
+2. Baixe o seu _fork_ para o diretório recém criado:
+
+		git clone git@github.com:[SEU_USUÁRIO]/community-stuff.git
+
+3. Mude o que você desejar!
+
+4. Não esqueça de enviar um _pull-request_ com as atualizações.
+
+## Como utilizar?
+
+Esteja livre para utilizar os arquivos como bem entender. O importante é difundir as comunidades!
+
+Os arquivos deste projeto estão sob a licença [Creative Commons Atribuição 3.0][cc].
+
+[cc]:	http://creativecommons.org/licenses/by/3.0/deed.pt
+
