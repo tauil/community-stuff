@@ -1,4 +1,5 @@
 *.jpg binary
+*.ai binary
 *.psd binary
 *.svg binary
 *.pdf binary
